@@ -12,7 +12,7 @@ homepage="https://github.com/LachlanMarnham/djangotutorial"
 python = "~3.9"
 
 # third party
-
+django = "~4.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0"
