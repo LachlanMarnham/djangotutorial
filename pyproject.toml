@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "djangotutorial"
+name = "django_tutorial"
 version = "0.0.0"
 description = "A simple app in Django"
 authors = ["Lachlan Marnham"]
