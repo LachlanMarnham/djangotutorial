@@ -16,3 +16,6 @@ migrate:
 
 polls-make-migration:
 	python django_tutorial/manage.py makemigrations polls
+
+create-superuser:
+	python django_tutorial/manage.py createsuperuser
