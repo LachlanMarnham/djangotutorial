@@ -13,3 +13,6 @@ runserver:
 
 migrate:
 	python django_tutorial/manage.py migrate
+
+polls-make-migration:
+	python django_tutorial/manage.py makemigrations polls
