@@ -21,4 +21,4 @@ create-superuser:
 	python django_tutorial/manage.py createsuperuser
 
 shell:
-	python django_tutorial/manage.py shell
+	python django_tutorial/manage.py shell_plus --print-sql
